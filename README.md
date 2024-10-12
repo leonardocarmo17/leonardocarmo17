@@ -41,4 +41,4 @@
 
 ###
 
-![Snake animation](https://github.com/leonardocarmo17)
+![Snake animation](https://github/leonardocarmo17/leonardocarmo17/blob/github-contribution-grid-snake.svg)
