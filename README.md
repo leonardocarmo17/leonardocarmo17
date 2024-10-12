@@ -2,7 +2,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h3 align="left">- Desenvolvedor PHP<br>- Estudante em Análise e Desenvolvimento de Sistemas</h3>
 
