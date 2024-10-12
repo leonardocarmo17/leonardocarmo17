@@ -2,6 +2,7 @@
 
 ###
 
+<br clear="both">
 
 <h3 align="left">- Desenvolvedor PHP<br>- Estudante em Análise e Desenvolvimento de Sistemas</h3>
 
@@ -12,20 +13,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardocarmo17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardocarmo17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardocarmo17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardocarmo17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-<img align="right" height="240" src="https://pbs.twimg.com/media/EIW55xzXsAAxVRH?format=jpg&name=large"  />
-
-
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -41,4 +35,8 @@
 
 ###
 
-![Snake animation](https://github/leonardocarmo17/leonardocarmo17/blob/github-contribution-grid-snake.svg)
+<div align="center">
+  <img height="240" src="https://pbs.twimg.com/media/EIW55xzXsAAxVRH?format=jpg&name=large"  />
+</div>
+
+###
