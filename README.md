@@ -40,3 +40,5 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/leonardocarmo17)
