@@ -4,7 +4,7 @@
 
 
 
-<h3 align="left">- Desenvolvedor PHP<br>- Estudante em Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="left">- Desenvolvedor PHP e JAVA<br>- Estudante em Análise e Desenvolvimento de Sistemas</h3>
 
 ###
 
