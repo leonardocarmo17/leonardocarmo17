@@ -4,7 +4,7 @@
 
 
 
-<h3 align="left">- Desenvolvedor PHP e JAVA<br>- Formado em Análise e Desenvolvimento de Sistemas <br>- Estudante de Ciência da Computação (Segunda Graduação)</h3>
+<h3 align="left">- Desenvolvedor PHP e JAVA<br>- Estudante em Análise e Desenvolvimento de Sistemas (5/5) <br>- Estudante de Ciência da Computação (1/8)</h3>
 
 ###
 
