@@ -4,7 +4,7 @@
 
 
 
-<h3 align="left">- Desenvolvedor PHP e JAVA<br>- Estudante em Análise e Desenvolvimento de Sistemas (5/5) <br>- Estudante de Ciência da Computação (1/8)</h3>
+<h3 align="left">- Desenvolvedor PHP e Python<br>- Graduado em Análise e Desenvolvimento de Sistemas <br>- Estudante de Ciência da Computação (2/8)</h3>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
 </div>
