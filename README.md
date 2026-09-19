@@ -4,7 +4,7 @@
 
 
 
-<h3 align="left">- Programador Typescript e Python<br>- Graduado em Análise e Desenvolvimento de Sistemas <br>- Estudante de Ciência da Computação (3/8)</h3>
+<h3 align="left">- Programador Typescript e Python<br>- Graduado em Análise e Desenvolvimento de Sistemas <br>- Estudante de Ciência da Computação (4/8)</h3>
 
 ###
 
